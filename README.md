@@ -4,6 +4,6 @@ This is a react native app of a simple contacts list made through Harvard's CS50
 
 * Random contacts generator
 * Section Lists 
-* Sort the contacts by the order of the first letter
+* Sort the contacts by alphabetical order
 * Add contacts form
 * Input validation
